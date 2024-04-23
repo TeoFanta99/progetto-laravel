@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Partita di Serie A: Milan - Inter",
+        "date": "2024-01-01"
+    },
+    {
+        "name": "Partita di NBA: Boston - Miami",
+        "date": "2024-01-02"
+    },
+    {
+        "name": "Partita di Tennis: Sinner - Alcaraz",
+        "date": "2024-01-03"
+    },
+    {
+        "name": "Finale di X-Factor",
+        "date": "2024-01-04"
+    },
+    {
+        "name": "Seconda puntata di Sanremo",
+        "date": "2024-01-05"
+    },
+    {
+        "name": "Concerto di Vasco Rossi",
+        "date": "2024-01-06"
+    },
+    {
+        "name": "Gran Premio d'Italia di Formula 1",
+        "date": "2024-01-07"
+    },
+    {
+        "name": "Finale di Masterchef",
+        "date": "2024-01-08"
+    }
+]
