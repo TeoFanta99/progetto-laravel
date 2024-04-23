@@ -9,13 +9,13 @@ Un *Evento* ha un nome e una data.
 
 # FUNZIONALITÀ DELL'APPLICAZIONE
 
-    •	vedere la lista degli eventi in home page 
-    •	vedere una pagina di dettaglio per ogni evento 
-    •	creare una persona  
+    •   vedere la lista degli eventi in home page 
+    •   vedere una pagina di dettaglio per ogni evento 
+    •   creare una persona  
     •   editare le persone
-    •	creare gli eventi
+    •   creare gli eventi
     •   editare gli eventi
-    •	aggiungere / rimuovere persone dagli eventi
+    •   aggiungere / rimuovere persone dagli eventi
 
 Il database di riferimento è **sqlite3** di (default di Laravel)
 
